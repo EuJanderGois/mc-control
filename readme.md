@@ -1,4 +1,7 @@
-# MC Control - v0.0.16-prototype
+
+<p id="top"></p>
+
+# MC Control - v0.0.17-prototype
 
 > Este nome é alernativo e provisório.
 
@@ -29,3 +32,10 @@ Ao executar `start.exe`, uma aba do navegador deve ser aberta em conjunto com o 
 No momento a única dependencia é o arquivo `start.exe` e os arquivos estáticos que devem estar armazenados em `services/cmd/web`. Onde devem estar arquivos HTML, CSS, etc.
 
 Na janela aberta no navegador ou no endereço http://localhost:3333/ as configurações do servidor podem ser visualizadas e modificadas em uma interface amigável que tem sua inspiração em interfaces como Aternos e Pterodactyl.
+
+## Mais informações
+
+- [Changelog](/docs/changelog.md)
+- [Regras de Push](/docs/push_rules.md)
+
+[Voltar ao topo](#top)
