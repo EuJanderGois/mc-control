@@ -1,0 +1,43 @@
+# Diretório binário de compilação
+/bin/
+/out/
+
+# Diretórios de pacotes e dependências (não necessário se não estiver usando Go modules)
+vendor/
+
+# Arquivos de dependências locais ou arquivos gerados
+go.sum
+*.lock
+
+# Artefatos binários de compilação
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+
+# Diretórios e arquivos criados pela IDE/Editor
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Arquivos de log
+*.log
+
+# Arquivos de teste de cobertura
+*.coverprofile
+*.coverage
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+
+# Arquivos e pastas do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache de compilação (se estiver usando Go 1.11+)
+/cache/
+/*.cache
