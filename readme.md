@@ -1,7 +1,7 @@
 
 <p id="top"></p>
 
-# MC Control - v0.0.17-prototype
+# MC Control - v0.0.18-PRE-RELEASE
 
 > Este nome é alernativo e provisório.
 

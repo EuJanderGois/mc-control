@@ -2,17 +2,28 @@
 
 [Voltar](/readme.md)
 
-# Releases e Pach's
+# Releases e Patch's
 
-- [__~~*0.1.0-BETA*~~__](#010---beta)
-- [__*0.0.17-PATH*__](#0017---pach)
-- [__*0.0.16-PROTOTYPE*__](#v0016---prototype)
+- [Releases e Patch's](#releases-e-patchs)
+  - [0.0.18 - Patch](#0018---patch)
+  - [0.0.17 - Patch](#0017---patch)
+  - [v0.0.16 - PRE RELEASE](#v0016---pre-release)
+    - [Adições](#adições)
+    - [Funcionalidades](#funcionalidades)
+    - [Notas](#notas)
+    - [Como instalar](#como-instalar)
+    - [Importante](#importante)
+  - [0.1.0 - BETA](#010---beta)
 
-## 0.0.17 - Pach
+## 0.0.18 - Patch
+
+Adicionado sitema de linguagem que recebe os valores e os exibe de acordo com a linguagem do sistema do usuário.
+
+## 0.0.17 - Patch
 
 Pach de melhorias na organização da documentação e da estrutura. Foram implementados metodos genéricos na interface.
 
-## v0.0.16 - Prototype
+## v0.0.16 - PRE RELEASE
 
 Esta release foi criada não pra que seja funcional, mas que a ideia possa ser vista além de algo abstrato.
 

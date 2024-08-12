@@ -1,0 +1,23 @@
+# Importante: 
+# Não modificar a estrutura, somente os dados. Caso seja necessário,
+# lembre-se que este documento esta atrelado ao schema que também deve ser atualizado.
+# Também será necessário atualizar a estrutura das demais linguagens pois o schema é o mesmo.
+
+# Representa o nome da aplicação.
+app-name: "MC Crontrol"
+
+# Representa a versão da aplicação.
+#
+# Deve estar de acordo com a release do github.
+app-version: "v0.1.0"
+
+# Todas as janelas que podem ser encontradas na aplicação e suas
+# informações.
+app-windows:
+  home:
+    name: "Home"
+    id: "home"
+  
+  settings:
+    name: "Settings"
+    id: "settings"
